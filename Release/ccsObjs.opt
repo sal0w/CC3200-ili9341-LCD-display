@@ -1,0 +1,1 @@
+"./main.obj" "./pinmux.obj" "./salowcc3200_ili9341.obj" "./startup_ccs.obj" "./uart_if.obj" "../cc3200v1p32.cmd" -l"libc.a" -l"C:\TI\CC3200SDK_1.1.0\cc3200-sdk\grlib\ccs-cm3\grlib.lib" -ldriverlib.a 
